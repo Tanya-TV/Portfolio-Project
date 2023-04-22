@@ -132,6 +132,12 @@ p {
 
 }
 
+.main h3:hover {
+    color: var(--btn-color);
+    transition: all 100ms ease-in-out;
+
+}
+
 nav {
     padding: 20px 0;
 }
